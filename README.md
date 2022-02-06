@@ -16,7 +16,7 @@ Code from the book Flask Framework Cookbook - Shalabh Aggarwal (2nd Edition, Pac
     * [ ]  1 Bootstraping the recomended layout
     * [ ]  2 Implementing block composition and layout inheritance
     * [ ]  4 Creating a custom Jinja2 filter
-    * [ ]  3 Creating a custpom context processor
+    * [ ]  3 Creating a custom context processor
     * [ ]  5 Creating a custom macro for forms
     * [ ]  6 Advanced date and time formatting
 * [ ]  Chapter 03 Data Modeling in Flask
