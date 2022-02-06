@@ -13,10 +13,10 @@ Code from the book Flask Framework Cookbook - Shalabh Aggarwal (2nd Edition, Pac
     * [x]  09 Making a Flask app installable using setuptools
 * [ ]  Chapter 02 Templating with Jinja2
     * [x]  0 Intro
-    * [ ]  1 Bootstraping the recomended layout
-    * [ ]  2 Implementing block composition and layout inheritance
-    * [ ]  4 Creating a custom Jinja2 filter
+    * [x]  1 Bootstraping the recomended layout
+    * [x]  2 Implementing block composition and layout inheritance
     * [ ]  3 Creating a custom context processor
+    * [ ]  4 Creating a custom Jinja2 filter
     * [ ]  5 Creating a custom macro for forms
     * [ ]  6 Advanced date and time formatting
 * [ ]  Chapter 03 Data Modeling in Flask
@@ -69,8 +69,7 @@ Code from the book Flask Framework Cookbook - Shalabh Aggarwal (2nd Edition, Pac
     * [ ]  6 Creating user roles
 * [ ]  Chapter 09 Internationalization and Localization
     * [ ]  1 Adding a new language
-    * [ ]  2 Implementing lazy evaluation and the gettext
-    * [ ]  ngettext functions
+    * [ ]  2 Implementing lazy evaluation and the gettext-ngettext functions
     * [ ]  3 Implementing the global language switching action
 * [ ]  Chapter 10 Debugging, Error Handling, and Testing
     * [ ]  01 Setting up basic file logging
