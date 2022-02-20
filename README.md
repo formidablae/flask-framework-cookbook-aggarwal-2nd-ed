@@ -11,14 +11,14 @@ Code from the book Flask Framework Cookbook - Shalabh Aggarwal (2nd Edition, Pac
     * [x]  07 Composition of views and models
     * [x]  08 Creating a modular web app with blueprints
     * [x]  09 Making a Flask app installable using setuptools
-* [ ]  Chapter 02 Templating with Jinja2
+* [x]  Chapter 02 Templating with Jinja2
     * [x]  0 Intro
     * [x]  1 Bootstraping the recomended layout
     * [x]  2 Implementing block composition and layout inheritance
-    * [ ]  3 Creating a custom context processor
-    * [ ]  4 Creating a custom Jinja2 filter
-    * [ ]  5 Creating a custom macro for forms
-    * [ ]  6 Advanced date and time formatting
+    * [x]  3 Creating a custom context processor
+    * [x]  4 Creating a custom Jinja2 filter
+    * [x]  5 Creating a custom macro for forms
+    * [x]  6 Advanced date and time formatting
 * [ ]  Chapter 03 Data Modeling in Flask
     * [ ]  01 Creating an SQLAlchemy DB instance
     * [ ]  02 Creating a basic product model
