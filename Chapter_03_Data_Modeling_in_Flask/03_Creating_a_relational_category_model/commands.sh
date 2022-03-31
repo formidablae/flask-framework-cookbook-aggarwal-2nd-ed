@@ -1,11 +1,11 @@
 #!/bin/bash
 
-python3.8 -m venv flask_catalog
-cd flask_catalog
+python3.8 -m venv flask_product_categories
+cd flask_product_categories
 source ./bin/activate
 python3.8 -m pip install flask-sqlalchemy
 # write code and run app
-python3 run.py
+python3.8 run.py
 
 # send requests
 python3.8 -m pip install requests
