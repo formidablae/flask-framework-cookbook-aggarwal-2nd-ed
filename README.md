@@ -24,7 +24,7 @@ Code from the book Flask Framework Cookbook - Shalabh Aggarwal (2nd Edition, Pac
     * [x]  02 Creating a basic product model
     * [x]  03 Creating a relational category model
     * [x]  04 Migrating databases using Alembic and Flask-Migrate
-    * [ ]  05 Indexing model data with Redis
+    * [x]  05 Indexing model data with Redis
     * [ ]  06 Opting for the NoSQL way with MongoDB
     * [ ]  07 Working with Views
     * [ ]  08 Writing function-based views and URL routes
