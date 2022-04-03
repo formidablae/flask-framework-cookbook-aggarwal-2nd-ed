@@ -22,8 +22,8 @@ Code from the book Flask Framework Cookbook - Shalabh Aggarwal (2nd Edition, Pac
 * [x]  Chapter 03 Data Modeling in Flask
     * [x]  01 Creating an SQLAlchemy DB instance
     * [x]  02 Creating a basic product model
-    * [ ]  03 Creating a relational category model
-    * [ ]  04 Migrating databases using Alembic and Flask-Migrate
+    * [x]  03 Creating a relational category model
+    * [x]  04 Migrating databases using Alembic and Flask-Migrate
     * [ ]  05 Indexing model data with Redis
     * [ ]  06 Opting for the NoSQL way with MongoDB
     * [ ]  07 Working with Views
